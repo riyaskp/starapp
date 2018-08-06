@@ -1,0 +1,8 @@
+{
+  "name": "starapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "0968e1d7"
+}
